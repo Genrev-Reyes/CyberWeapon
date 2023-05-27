@@ -2,7 +2,7 @@
 # This Tool is for educational purposes only
 # Creator: GenrevReyes
 
-git clone https://github.com/GenrevReyes/CyberWeapon
+git clone https://github.com/Genrev-Reyes/CyberWeapon
 
 cd CyberWeapon
 
