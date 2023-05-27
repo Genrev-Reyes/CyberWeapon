@@ -1,9 +1,22 @@
 # CyberWeapon
 # This Tool is for educational purposes only
 # Creator: GenrevReyes
-# Github: https://github.com/Genrev-Reyes
-# Tool_name: CyberWeapon 
-# CyberWeapon is a tools installer
-# And All Tools in CyberWeapon are Most popular command for hacking 
+
+git clone https://github.com/GenrevReyes/CyberWeapon
+
+cd CyberWeapon
+
+python3 cyberweapon.py
+
+Type "help"
+
+
+
+CyberWeapon is a tools installer
+and all tools in CyberWeapon are most popular command for hacking
+
+
+
+
 
 
